@@ -1,5 +1,4 @@
 # Statistical Distribution Analysis Project
-# video explanation :- https://drive.google.com/drive/folders/1kNuIGLFoAEJ53L0vOrHT2ak-hNxsohOn
 
 ## 📌 Project Overview
 This project analyzes statistical distributions using Python.  
